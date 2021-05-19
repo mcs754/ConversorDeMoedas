@@ -1,5 +1,5 @@
 # ConversorDeMoedas
-### Este projeto faz parte do Desafio Programação - Jornada Labs HAVAN.
+### Este projeto faz parte do Desafio Programação - Jornada Labs HAVAN
 
 O requisito do projeto era que fosse feito uma calculadora de câmbio de moedas em arquivo único. Para deploy basta apenas iniciar o arquivo "calculadora.php" direto no servidor.
 
